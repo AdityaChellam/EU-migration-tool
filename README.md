@@ -1,6 +1,10 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=adchella-te.eu-migration-tool) 
 [![published](https://static.production.devnetcloud.com/codeexchange/assets/images/devnet-published.svg)](https://developer.cisco.com/codeexchange/github/repo/adchella-te/EU-migration-tool)
 
+**Note -** This repository has been moved to the ThousandEyes(part of Cisco) open-source repository at - 
+
+**https://github.com/adchella-te/CE-migration-tool** 
+
 # EU Migration Tool
 ## Table of contents
 * [Executive Summary](#executive-summary)
